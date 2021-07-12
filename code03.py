@@ -15,3 +15,4 @@ print(katok)
 katok.append(None)
 katok
 
+
